@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107970935253",
+    "project_id": "alea-colection",
+    "storage_bucket": "alea-colection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107970935253:android:0ed2e628f01d40c047e55c",
+        "android_client_info": {
+          "package_name": "com.aleacollection.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQF178y6RrTvdIzBjurNHXaWchoQmBu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
